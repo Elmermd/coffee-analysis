@@ -30,9 +30,6 @@ Análisis de patrones de consumo de café en diferentes grupos demográficos, en
 - Los hombres consumen más café en todos los grupos de edad
 
 
-
-```
-
 ## Tecnologías
 
 - Python 3.8+
@@ -47,6 +44,6 @@ Análisis de patrones de consumo de café en diferentes grupos demográficos, en
 3. Visualización interactiva con Plotly
 
 
-## 🙏 Agradecimientos
+##  Agradecimientos
 
 CISCO Networking Academy - Data Science Essentials with Python
